@@ -1,0 +1,132 @@
+.blablabla
+{
+   display: grid;
+   border: solid 2px;
+   grid-template-columns: repeat(7, 6fr);
+   grid-auto-rows: 100px;
+
+}
+.box1
+{
+    grid-row-start: 1;
+    grid-row-end: 4;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box2
+{
+    grid-row-start: 1;
+    grid-row-end: 5;
+    grid-column-start: 4;
+    grid-column-end: 4;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box3
+{
+    grid-row-start: 1;
+    grid-row-end: 14;
+    grid-column-start: 1;
+    grid-column-end: 1;
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box4
+{
+    grid-row-start: 1;
+    grid-row-end: 4;
+    grid-column-start: 2;
+
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box5
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box6
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box7
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box8
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box9
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box10
+{
+    grid-row-start: 8;
+    grid-row-end: 11;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box11
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box12
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box13
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box14
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box15
+{
+    grid-column-start: 4;
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box16
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box17
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box18
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box19
+{
+    grid-column-start: 6;
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
+.box20
+{
+    border: solid 2px;
+    border-color: rgb(red, green, blue);
+}
